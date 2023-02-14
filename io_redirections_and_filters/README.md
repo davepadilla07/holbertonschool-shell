@@ -9,7 +9,7 @@
 # Script 8: Saving current state in a file, whether exists, it overwritten, whether not exists, is created.
 # Script 9: Duplicating and adding the last line of a file to the same.
 # Script 10: Deleting the js files in the wk and its subdirectories.
-# Script 11: 
+# Script 11: Counting directories without the current and parent
 # Script 12: 
 # Script 13:  
 # Script 14: 
