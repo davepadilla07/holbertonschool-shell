@@ -6,9 +6,9 @@
 # Script 5: Displating the first 10 lines of a file
 # Script 6: Displaying the specific line of a file
 # Script 7: Creating a dificult file name
-# Script 8: 
-# Script 9: 
-# Script 10: 
+# Script 8: Saving current state in a file, whether exists, it overwritten, whether not exists, is created.
+# Script 9: Duplicating and adding the last line of a file to the same.
+# Script 10: Deleting the js files in the wk and its subdirectories.
 # Script 11: 
 # Script 12: 
 # Script 13:  
