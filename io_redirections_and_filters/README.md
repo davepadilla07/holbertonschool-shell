@@ -5,7 +5,7 @@
 # Script 4: Displating the last 10 lines of a file
 # Script 5: Displating the first 10 lines of a file
 # Script 6: Displaying the specific line of a file
-# Script 7: 
+# Script 7: Creating a dificult file name
 # Script 8: 
 # Script 9: 
 # Script 10: 
