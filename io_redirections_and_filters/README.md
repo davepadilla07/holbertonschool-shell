@@ -1,6 +1,6 @@
 # Script 0: Printing "hello world"
-# Script 1: 
-# Script 2: 
+# Script 1: Printing a confused smiley
+# Script 2: Displaying /etc/passwd file
 # Script 3: 
 # Script 4: 
 # Script 5: 
