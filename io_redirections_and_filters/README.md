@@ -24,4 +24,4 @@
 # Script 23: Looking for an empty dirs and files
 # Script 24: Printing just filenames of gif files
 # Script 25: Cutting the first letter of each line and print it in just a line (25-acrostic < Acrostic)
-# Script 26:
+# Script 26: The hardest thing: most active host (26-the_biggest_fan < nasa_19950801 donwloaded with wget https://s3.amazonaws.com/alx-intranet.hbtn.io/public/nasa_19950801.tsv).
