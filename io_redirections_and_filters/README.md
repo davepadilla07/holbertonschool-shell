@@ -23,5 +23,5 @@
 # Script 22: Displaying users and their hom dir, sorted by users
 # Script 23: Looking for an empty dirs and files
 # Script 24: Printing just filenames of gif files
-# Script 25:
+# Script 25: Cutting the first letter of each line and print it in just a line (25-acrostic < Acrostic)
 # Script 26:
