@@ -16,7 +16,7 @@
 # Script 15: Counting the number of lines where the word appear 
 # Script 16: Displaying the lines where appear a word and 3 lines after 
 # Script 17: Displaying all the lines where not appear a word.
-# Script 18:
+# Script 18: Displaying lines that start with letter
 # Script 19:
 # Script 20:
 # Script 21:
