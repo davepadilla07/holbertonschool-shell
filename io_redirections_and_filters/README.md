@@ -13,5 +13,15 @@
 # Script 12: Order new files by date
 # Script 13: Printing unique words from a list of words
 # Script 14: Searching the word coincidence in a file 
-# Script 15: 
+# Script 15: Counting the number of lines where the word appear 
 # Script 16:  
+# Script 17:
+# Script 18:
+# Script 19:
+# Script 20:
+# Script 21:
+# Script 22:
+# Script 23:
+# Script 24:
+# Script 25:
+# Script 26:
