@@ -17,8 +17,8 @@
 # Script 16: Displaying the lines where appear a word and 3 lines after 
 # Script 17: Displaying all the lines where not appear a word.
 # Script 18: Displaying lines that start with letter
-# Script 19:
-# Script 20:
+# Script 19: Replacing letters
+# Script 20: Removing a letter, even its capital form
 # Script 21:
 # Script 22:
 # Script 23:
