@@ -21,7 +21,7 @@
 # Script 20: Removing a letter, even its capital form
 # Script 21: Reversing words
 # Script 22: Displaying users and their hom dir, sorted by users
-# Script 23:
+# Script 23: Looking for an empty dirs and files
 # Script 24:
 # Script 25:
 # Script 26:
