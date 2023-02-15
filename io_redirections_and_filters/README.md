@@ -19,7 +19,7 @@
 # Script 18: Displaying lines that start with letter
 # Script 19: Replacing letters
 # Script 20: Removing a letter, even its capital form
-# Script 21:
+# Script 21: Reversing words
 # Script 22:
 # Script 23:
 # Script 24:
