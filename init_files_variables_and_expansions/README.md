@@ -1,7 +1,7 @@
 # Script 0: Creating alias 
 # Script 1: Hello current user
 # Script 2: Adding something new to PATH
-# Script 3: 
+# Script 3: Counting the number of directories in the PATH
 # Script 4: 
 # Script 5: 
 # Script 6: 
