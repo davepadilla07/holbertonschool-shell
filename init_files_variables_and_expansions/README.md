@@ -4,7 +4,7 @@
 # Script 3: Counting the number of directories in the PATH
 # Script 4: Printing all the environment variables
 # Script 5: Listing all local and environment variables, and functions
-# Script 6: 
+# Script 6: Creating a local variable
 # Script 7: 
 # Script 8: 
 # Script 9: 
