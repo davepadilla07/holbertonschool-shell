@@ -8,7 +8,7 @@
 # Script 7: Creating a global variable
 # Script 8: Adding 128 to an environment variable
 # Script 9: POWER / DIVIDE variables
-# Script 10: 
+# Script 10: BREATH ** LOVE variables
 # Script 11: 
 # Script 12: 
 # Script 13:  
