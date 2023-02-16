@@ -11,7 +11,7 @@
 # Script 10: BREATH ** LOVE variables
 # Script 11: Converting from binary to decimal
 # Script 12: Printing all the combinations between two letter except "oo"
-# Script 13:  
+# Script 13: Printing floats 
 # Script 14: 
 # Script 15: 
 # Script 16:  
