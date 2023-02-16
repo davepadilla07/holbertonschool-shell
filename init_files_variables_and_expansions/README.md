@@ -7,7 +7,7 @@
 # Script 6: Creating a local variable
 # Script 7: Creating a global variable
 # Script 8: Adding 128 to an environment variable
-# Script 9: 
+# Script 9: POWER / DIVIDE variables
 # Script 10: 
 # Script 11: 
 # Script 12: 
