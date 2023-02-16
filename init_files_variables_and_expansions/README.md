@@ -1,5 +1,5 @@
 # Script 0: Creating alias 
-# Script 1: 
+# Script 1: Hello current user
 # Script 2: 
 # Script 3: 
 # Script 4: 
