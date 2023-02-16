@@ -13,5 +13,5 @@
 # Script 12: Printing all the combinations between two letter except "oo"
 # Script 13: Printing floats 
 # Script 14: Converting from decimal to hexadecimal
-# Script 15: 
+# Script 15: Encoding with rot13
 # Script 16:  
