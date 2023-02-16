@@ -6,7 +6,7 @@
 # Script 5: Listing all local and environment variables, and functions
 # Script 6: Creating a local variable
 # Script 7: Creating a global variable
-# Script 8: 
+# Script 8: Adding 128 to an environment variable
 # Script 9: 
 # Script 10: 
 # Script 11: 
