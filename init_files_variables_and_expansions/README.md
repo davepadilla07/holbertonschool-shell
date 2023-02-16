@@ -9,7 +9,7 @@
 # Script 8: Adding 128 to an environment variable
 # Script 9: POWER / DIVIDE variables
 # Script 10: BREATH ** LOVE variables
-# Script 11: 
+# Script 11: Converting from binary to decimal
 # Script 12: 
 # Script 13:  
 # Script 14: 
